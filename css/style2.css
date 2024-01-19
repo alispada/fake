@@ -1,0 +1,17 @@
+.header {background-color: Gainsboro; 
+          margin: 0;
+          text-align: center;
+          height: 60px;
+          padding: 0px;  }
+.header img  { width: 5%;
+				height: auto;
+				 padding-top: 20px;
+				 padding-bottom: 20px;}
+	} {  }
+
+nav  { background-color: dimgray !important; }
+
+.nav-pills .nav-link.active { background-color: lightgray !important; }
+
+.nav-link { color: lightgray !important; }
+a.nav-link.active { color: dimgray !important; }

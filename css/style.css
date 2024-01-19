@@ -1,0 +1,73 @@
+.header { background-color: azure ; 
+          margin: 0;
+          text-align: center;
+          height: 60px;
+          padding: 0px;
+
+       } 
+.header img {width: 10%;
+        height: auto; 
+        margin: 0;
+
+
+       }
+
+
+.darkgray { background-color: #333; }
+.lightgray { background-color:lightgray; }
+.box {
+       background-color:pink;
+       padding: 20px;
+       margin: 0px }
+.box a { text-decoration: none;
+          color: black;}
+
+.bianco { color: white; 
+          }
+.testo-bianco-centro { color:white;
+                        text-align: center;
+                         }
+.background-image { background-image: url('../img/picasso.jpg'); 
+                    background-color: lightgray;
+                    background-size:contain;
+                    background-position: center;
+                    height:100vh;
+                
+                    background-repeat: no-repeat;
+                   
+                  }
+.box-link { display: grid; 
+            widht: 50px;
+            height:25px;
+            margin-left:32%;
+            margin-right:32%;
+            padding:5%;
+            background-color: pink;
+            top: 50%;
+            left: 50%;
+            place-items: center ;}
+
+.text-decoration-none {text-decoration: none;}
+
+#mio-link:link {color: blue;}
+#mio-link:visited {color: blue;}
+#mio-link:hover {color: red;}
+#mio-link:active {color: green;}
+
+.dropdown {text-align: center;}
+
+.nav {padding: 0px}
+.testo-centro {text-align: center;
+       color: white;}
+
+.border-r-0 {border-radius: 0 !important}
+
+
+
+
+
+/* NON CAPISCO */
+
+
+/* stile per contenitore per immagine di sfondo */
+
